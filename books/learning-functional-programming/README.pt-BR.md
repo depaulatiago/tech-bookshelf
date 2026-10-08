@@ -5,7 +5,7 @@
 > *Como pensar funcionalmente para trabalhar com códigos complexos*
 
 - **Autor:** Jack Widman
-- **Editora:** Novatec (original: O'Reilly)
+- **Editora:** O'Reilly
 - **Status:** 📖 Lendo
 - **Início:** 2026-10-08
 - **Término:**

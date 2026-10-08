@@ -26,10 +26,3 @@ templates/               # modelos para novos livros e capítulos
 ```
 
 Todo arquivo tem uma versão em inglês (`.md`) e uma em português (`.pt-BR.md`).
-
-## Adicionando um livro
-
-1. Crie `books/<slug-do-livro>/` (minúsculo, com hífen, título em inglês)
-2. Copie `templates/book.md` → `README.md` e `templates/book.pt-BR.md` → `README.pt-BR.md`
-3. Para cada capítulo, copie `templates/chapter.md` e `templates/chapter.pt-BR.md` para `chapters/`
-4. Adicione uma linha na tabela acima (e no `README.md`)
